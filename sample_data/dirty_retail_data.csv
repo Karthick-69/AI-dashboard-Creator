@@ -1,0 +1,18 @@
+Transaction_ID,Customer_Name,Category,Product,Amount,Quantity,Date,City
+TX-901,Alice Smith,Electronics,Noise Cancelling Earbuds,129.99,1,2024-01-05,New York
+TX-902,Bob Jones,  Electronics ,Wireless Mouse,29.99,2,2024-01-08,Chicago
+TX-903,Charlie Brown,home appliances,Blender 500W,,1,2024-01-12,Houston
+TX-904,David Wilson,Home Appliances,Microwave Oven,180.00,1,2024-01-15,New York
+TX-905,Eve Adams,Clothing,Denim Jacket,65.00,2,2024-01-20,Chicago
+TX-901,Alice Smith,Electronics,Noise Cancelling Earbuds,129.99,1,2024-01-05,New York
+TX-906,Frank Castle,ELECTRONICS,Gaming Keyboard,95.00,1,2024-01-22,
+TX-907,Grace Kelly,,Espresso Machine,240.00,1,2024-01-25,Los Angeles
+TX-908,Harry Potter,Clothing,Winter Scarf,25.00,4,2024-01-29,Boston
+TX-909,Ivy Taylor,Home Appliances,Air Fryer,99.99,2,2024-02-02,Houston
+TX-910,Jack Sparrow,Electronics,Action Camera,99999.00,1,2024-02-05,Miami
+TX-911,Karen Page,clothing,Wool Sweater,55.00,,2024-02-08,New York
+TX-912,Leo Tolstoy,Electronics,Smart TV 55-inch,450.00,1,2024-02-12,Chicago
+TX-912,Leo Tolstoy,Electronics,Smart TV 55-inch,450.00,1,2024-02-12,Chicago
+TX-913,Mary Poppins,Home Appliances,Vacuum Cleaner,150.00,1,2024-02-15,Boston
+TX-914,Nick Fury,Clothing,Leather Belt,35.00,3,2024-02-20,Los Angeles
+TX-915,Olivia Pope,Electronics,Smart Watch,199.50,2,2024-02-25,Miami

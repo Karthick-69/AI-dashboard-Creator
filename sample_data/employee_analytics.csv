@@ -1,0 +1,21 @@
+Employee_ID,Full_Name,Department,Job_Role,Salary,Experience_Years,Performance_Rating,Work_Mode,Attrition,Training_Hours,Overtime
+EMP-101,Sarah Jenkins,Engineering,Senior Software Engineer,125000,7,4.8,Remote,No,35,Yes
+EMP-102,Michael Chang,Product,Product Manager,110000,5,4.2,Hybrid,No,28,No
+EMP-103,Jessica Alba,Marketing,Marketing Lead,95000,6,3.9,Onsite,No,20,No
+EMP-104,Robert Sterling,Sales,Account Executive,85000,4,3.7,Remote,Yes,15,Yes
+EMP-105,Amanda Clark,Human Resources,HR Business Partner,88000,5,4.1,Hybrid,No,32,No
+EMP-106,Daniel Miller,Engineering,DevOps Engineer,115000,6,4.5,Remote,No,40,No
+EMP-107,Rachel Green,Finance,Financial Analyst,92000,3,4.0,Onsite,No,25,Yes
+EMP-108,Chris Evans,Sales,Sales Manager,130000,8,4.6,Hybrid,No,30,Yes
+EMP-109,Lauren Bell,Engineering,Frontend Engineer,98000,4,4.3,Remote,No,38,No
+EMP-110,James Wilson,Marketing,SEO Specialist,72000,2,3.5,Onsite,Yes,12,No
+EMP-111,Emily Watson,Data Science,Data Scientist,120000,5,4.7,Remote,No,45,No
+EMP-112,Kevin Hart,Customer Support,Support Lead,68000,4,3.8,Onsite,No,22,Yes
+EMP-113,Natalie Portman,Engineering,QA Lead,105000,6,4.4,Hybrid,No,34,No
+EMP-114,Brian Cox,Finance,Senior Accountant,96000,7,4.2,Onsite,No,18,No
+EMP-115,Chloe Zhao,Data Science,Machine Learning Engineer,135000,6,4.9,Remote,No,50,Yes
+EMP-116,Anthony Davis,Sales,Sales Associate,65000,2,3.4,Onsite,Yes,14,Yes
+EMP-117,Grace Kelly,Human Resources,Recruiter,76000,3,3.9,Hybrid,No,26,No
+EMP-118,Steven Strange,Product,UX Designer,102000,5,4.3,Remote,No,36,No
+EMP-119,Hannah Montana,Marketing,Content Strategist,78000,3,4.0,Hybrid,No,24,No
+EMP-120,Arthur Pendelton,Customer Support,Support Specialist,58000,1,3.2,Onsite,Yes,10,Yes

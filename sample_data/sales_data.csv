@@ -1,0 +1,41 @@
+Order_ID,Date,Region,Product_Category,Product_Name,Sales_Amount,Units_Sold,Profit,Customer_Segment,Payment_Method
+ORD-1001,2024-01-05,North America,Electronics,Wireless Headphones,149.99,2,45.50,Consumer,Credit Card
+ORD-1002,2024-01-07,Europe,Office Supplies,Ergonomic Chair,299.00,1,85.20,Corporate,Bank Transfer
+ORD-1003,2024-01-10,Asia Pacific,Electronics,Smart Watch,199.50,3,72.00,Consumer,PayPal
+ORD-1004,2024-01-14,North America,Furniture,Standing Desk,450.00,1,120.00,Corporate,Credit Card
+ORD-1005,2024-01-18,Latin America,Electronics,Bluetooth Speaker,79.99,4,38.40,Consumer,Credit Card
+ORD-1006,2024-01-22,Europe,Office Supplies,Executive Notebook Set,35.00,10,18.50,Home Office,Credit Card
+ORD-1007,2024-01-25,Asia Pacific,Furniture,Bookshelf Unit,180.00,2,42.00,Consumer,Bank Transfer
+ORD-1008,2024-01-29,North America,Electronics,Noise Cancelling Earbuds,129.00,3,52.20,Home Office,Credit Card
+ORD-1009,2024-02-02,Europe,Furniture,LED Desk Lamp,49.99,5,26.50,Consumer,PayPal
+ORD-1010,2024-02-06,Asia Pacific,Office Supplies,Document Scanner,210.00,1,55.00,Corporate,Bank Transfer
+ORD-1011,2024-02-11,North America,Electronics,Ultra-Wide Monitor,380.00,2,95.00,Corporate,Credit Card
+ORD-1012,2024-02-15,Latin America,Office Supplies,Mechanical Keyboard,89.50,2,28.00,Home Office,Credit Card
+ORD-1013,2024-02-19,Europe,Electronics,USB-C Docking Station,119.00,3,41.50,Corporate,Credit Card
+ORD-1014,2024-02-23,Asia Pacific,Electronics,Tablet Stylus Pen,59.00,6,24.00,Consumer,PayPal
+ORD-1015,2024-02-27,North America,Furniture,Conference Table,850.00,1,230.00,Corporate,Bank Transfer
+ORD-1016,2024-03-02,Latin America,Furniture,Mesh Office Chair,175.00,2,48.00,Home Office,Credit Card
+ORD-1017,2024-03-06,Europe,Electronics,4K Webcam,99.90,4,44.00,Corporate,Credit Card
+ORD-1018,2024-03-10,North America,Office Supplies,Laser Printer Toner,75.00,4,22.50,Corporate,Credit Card
+ORD-1019,2024-03-15,Asia Pacific,Office Supplies,Paper Shredder,125.00,2,36.00,Home Office,PayPal
+ORD-1020,2024-03-20,North America,Electronics,Portable SSD 1TB,110.00,5,62.50,Consumer,Credit Card
+ORD-1021,2024-03-24,Europe,Furniture,Filing Cabinet,160.00,2,39.00,Corporate,Bank Transfer
+ORD-1022,2024-03-28,Asia Pacific,Electronics,Wireless Mouse,32.50,8,21.00,Consumer,Credit Card
+ORD-1023,2024-04-02,Latin America,Electronics,Smart Speaker,65.00,3,23.00,Consumer,PayPal
+ORD-1024,2024-04-08,North America,Office Supplies,Desk Organizer,24.99,6,12.00,Home Office,Credit Card
+ORD-1025,2024-04-12,Europe,Electronics,Gaming Headset,85.00,4,33.00,Consumer,Credit Card
+ORD-1026,2024-04-18,Asia Pacific,Furniture,Adjustable Footrest,39.99,5,15.50,Corporate,PayPal
+ORD-1027,2024-04-22,North America,Electronics,Smart Thermostat,149.00,2,51.00,Consumer,Credit Card
+ORD-1028,2024-04-27,Europe,Office Supplies,Color Label Printer,189.00,1,47.00,Corporate,Bank Transfer
+ORD-1029,2024-05-03,Latin America,Furniture,Drafting Stool,135.00,2,34.00,Home Office,Credit Card
+ORD-1030,2024-05-09,Asia Pacific,Electronics,Action Camera,249.00,2,78.00,Consumer,Credit Card
+ORD-1031,2024-05-14,North America,Furniture,Executive Leather Chair,399.00,1,105.00,Corporate,Credit Card
+ORD-1032,2024-05-20,Europe,Electronics,Fitness Band,49.99,7,28.50,Consumer,PayPal
+ORD-1033,2024-05-25,Asia Pacific,Office Supplies,Thermal Laminator,58.00,3,19.00,Home Office,Bank Transfer
+ORD-1034,2024-05-30,North America,Electronics,Wi-Fi 6 Router,129.99,3,46.00,Consumer,Credit Card
+ORD-1035,2024-06-04,Latin America,Electronics,Power Bank 20000mAh,39.00,6,22.00,Consumer,PayPal
+ORD-1036,2024-06-10,Europe,Furniture,Glass Top Computer Desk,310.00,1,88.00,Home Office,Bank Transfer
+ORD-1037,2024-06-16,Asia Pacific,Electronics,Mechanical Keyboard,95.00,4,36.00,Consumer,Credit Card
+ORD-1038,2024-06-22,North America,Office Supplies,Whiteboard 4x3ft,85.00,2,24.00,Corporate,Credit Card
+ORD-1039,2024-06-27,Europe,Electronics,Noise Cancelling Earbuds,129.00,4,58.00,Consumer,Credit Card
+ORD-1040,2024-06-30,Asia Pacific,Furniture,Ergonomic Chair,299.00,2,92.00,Corporate,Credit Card

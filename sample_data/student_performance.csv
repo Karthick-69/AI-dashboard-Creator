@@ -1,0 +1,26 @@
+Student_ID,Student_Name,Gender,Department,Semester,Attendance_Rate,Math_Score,Science_Score,English_Score,Coding_Score,Passed,Study_Hours_Per_Week
+STU-001,Alex Morgan,Female,Computer Science,4,92.5,88,94,85,95,Yes,18
+STU-002,Brian Chen,Male,Computer Science,4,85.0,76,82,78,88,Yes,14
+STU-003,Carla Gomez,Female,Electrical Eng,4,74.2,65,70,72,68,Yes,10
+STU-004,David Kim,Male,Mechanical Eng,4,61.0,45,52,58,40,No,6
+STU-005,Elena Rossi,Female,Data Science,4,96.0,95,98,92,99,Yes,22
+STU-006,Farhan Ali,Male,Data Science,4,88.4,84,89,80,90,Yes,16
+STU-007,Grace Hopper,Female,Computer Science,4,98.5,99,96,94,100,Yes,25
+STU-008,Henry Taylor,Male,Civil Eng,4,68.0,58,62,64,55,Yes,8
+STU-009,Isabella Santos,Female,Electrical Eng,4,82.5,79,85,88,80,Yes,15
+STU-010,Jamal Washington,Male,Mechanical Eng,4,55.0,38,44,50,42,No,5
+STU-011,Kavita Patel,Female,Computer Science,4,91.0,90,92,86,94,Yes,19
+STU-012,Lucas Dubois,Male,Data Science,4,86.5,82,88,84,91,Yes,17
+STU-013,Maya Lin,Female,Civil Eng,4,77.0,70,75,76,72,Yes,12
+STU-014,Noah Bennett,Male,Electrical Eng,4,64.0,52,58,60,56,Yes,7
+STU-015,Olivia Zhao,Female,Computer Science,4,94.0,92,95,89,96,Yes,20
+STU-016,Peter O'Connor,Male,Mechanical Eng,4,72.0,68,71,65,60,Yes,11
+STU-017,Quinn Foster,Non-Binary,Data Science,4,89.0,86,90,87,93,Yes,18
+STU-018,Ravi Shankar,Male,Computer Science,4,83.0,80,84,79,85,Yes,14
+STU-019,Sophia Martinez,Female,Civil Eng,4,79.5,74,78,82,75,Yes,13
+STU-020,Thomas Wright,Male,Electrical Eng,4,58.0,42,48,54,49,No,6
+STU-021,Uma Thurman,Female,Data Science,4,93.0,91,93,88,97,Yes,21
+STU-022,Victor Vance,Male,Computer Science,4,76.5,71,76,73,81,Yes,12
+STU-023,Wendy Davis,Female,Mechanical Eng,4,81.0,78,80,82,77,Yes,15
+STU-024,Xavier Hernandez,Male,Civil Eng,4,67.0,59,63,65,58,Yes,9
+STU-025,Yuki Tanaka,Female,Computer Science,4,95.5,94,97,91,98,Yes,23

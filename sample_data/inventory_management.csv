@@ -1,0 +1,21 @@
+SKU,Product_Name,Category,Stock_Level,Reorder_Point,Unit_Cost,Selling_Price,Supplier,Warehouse_Location,Status
+SKU-501,Mechanical Switch Alpha,Components,450,150,0.25,0.75,Apex Tech,Warehouse A,In Stock
+SKU-502,RGB Backlit Keycaps,Accessories,85,100,12.50,29.99,KeyCraft Co,Warehouse B,Low Stock
+SKU-503,Braided USB-C Cable 2m,Cables,620,200,2.10,8.99,FlexLink,Warehouse A,In Stock
+SKU-504,Wireless Gaming Sensor,Electronics,32,50,18.00,45.00,OptiTech,Warehouse C,Low Stock
+SKU-505,Aluminum Keyboard Case,Hardware,140,80,24.00,59.99,Precision Molds,Warehouse B,In Stock
+SKU-506,Sound Dampening Foam,Accessories,0,50,3.50,11.99,Acoustic Labs,Warehouse A,Out of Stock
+SKU-507,Hot-Swap PCB Board,Components,75,60,19.50,42.00,Apex Tech,Warehouse C,In Stock
+SKU-508,Coiled Aviator Cable,Cables,45,70,14.00,34.50,FlexLink,Warehouse B,Low Stock
+SKU-509,PBT Pudding Keycaps,Accessories,210,120,11.00,26.99,KeyCraft Co,Warehouse A,In Stock
+SKU-510,Linear Switch Beta,Components,890,250,0.28,0.80,Apex Tech,Warehouse A,In Stock
+SKU-511,Desk Mat Extended 900x400,Accessories,115,80,6.50,19.99,StylePad,Warehouse B,In Stock
+SKU-512,Lubricant GPL 205g0,Maintenance,0,40,4.20,13.50,LubeWorks,Warehouse C,Out of Stock
+SKU-513,Switch Puller Steel,Tools,350,100,1.50,5.99,ToolMaster,Warehouse A,In Stock
+SKU-514,Keycap Puller Wire,Tools,420,120,1.20,4.99,ToolMaster,Warehouse A,In Stock
+SKU-515,Stabilizer Kit Screw-in,Hardware,95,110,8.50,22.00,KeyCraft Co,Warehouse B,Low Stock
+SKU-516,Soldering Station 60W,Tools,28,30,35.00,79.99,ToolMaster,Warehouse C,Low Stock
+SKU-517,Artisan Resin Keycap,Specialty,18,25,15.00,49.99,ResinArt,Warehouse B,Low Stock
+SKU-518,O-Ring Dampeners 120pcs,Maintenance,540,150,0.80,3.99,LubeWorks,Warehouse A,In Stock
+SKU-519,Acrylic Keyboard Stand,Display,65,50,5.00,14.99,Precision Molds,Warehouse B,In Stock
+SKU-520,Wireless Rechargeable Battery,Electronics,190,100,7.80,21.50,OptiTech,Warehouse C,In Stock
